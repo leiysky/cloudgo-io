@@ -1,0 +1,47 @@
+.button {
+  width: 500px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  text-align: center;
+  padding-top: auto;
+  padding-bottom: auto;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: thick;
+}
+
+.list {
+  height: auto;
+  background-color: azure;
+}
+
+.item {
+  height: 100px;
+  text-align: center;
+  padding: 0 auto;
+  font-size: 50px;
+}
+
+.form {
+  height: auto;
+  margin: 0 auto;
+}
+
+.input {
+  height: 60px;
+  font-size: 50px;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+.submit {
+  height: 60px;
+  width: auto;
+  margin: 0 auto;
+  font-size: 50px;
+  border-radius: 10px;
+  background-color: aqua;
+}
